@@ -1,0 +1,27 @@
+{
+  "name": "puertadigitalthemeoldschool",
+  "displayName": "Old School Theme",
+  "description": "The Old School theme for focused developers.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "puertaDigital",
+  "icon": "logopd-square.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/puertaDigital/Old_School-VSCode-ColorTheme.git"},
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Old School HC Theme",
+        "uiTheme": "hc-black",
+        "path": "./themes/Old_School-color-theme.json"
+      }
+    ]
+  }
+}
