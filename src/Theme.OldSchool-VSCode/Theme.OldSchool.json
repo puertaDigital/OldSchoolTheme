@@ -92,6 +92,8 @@
 		"statusBarItem.prominentBackground": "#6e768166",
 		"statusBarItem.remoteBackground": "#00000000",
 		"statusBarItem.remoteForeground": "#ffffff",
+		"statusBarItem.errorForeground": "#F14C4C",
+		"statusBarItem.warningForeground": "#F5F543",
 		"tab.activeBackground": "#2F2F2F",
 		"tab.activeBorderTop": "#0078d4",
 		"tab.activeForeground": "#ffffff",
