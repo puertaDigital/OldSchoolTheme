@@ -2304,7 +2304,7 @@
         <Background Type="CT_RAW" Source="15FFFFFF" />
       </Color>
       <Color Name="ToolWindowBorder">
-        <Background Type="CT_RAW" Source="15FFFFFF" />
+        <Background Type="CT_RAW" Source="FF7F7F7F" />
       </Color>
       <Color Name="ToolWindowTabMouseOverText">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
