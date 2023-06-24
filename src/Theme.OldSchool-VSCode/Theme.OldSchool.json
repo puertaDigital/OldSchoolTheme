@@ -2,6 +2,7 @@
 	"name": "Old School Theme",
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		"activityBar.activeBackground": "#3f3f3f",
 		"activityBar.background": "#2f2f2f",
@@ -138,7 +139,10 @@
 			}
 		},
 		{
-			"scope": "comment",
+			"scope": [
+				"comment",
+				"string.quoted.docstring"
+			],
 			"settings": {
 				"foreground": "#6A9955"
 			}
@@ -630,7 +634,10 @@
 			}
 		},
 		{
-			"scope": "constant.character",
+			"scope": [
+				"constant.character",
+				"constant.other.option"
+			],
 			"settings": {
 				"foreground": "#569CD6"
 			}
