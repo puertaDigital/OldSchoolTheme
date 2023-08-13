@@ -4966,7 +4966,7 @@
     </Category>
     <Category Name="Package Manager Console" GUID="{f9d6bce6-c669-41db-8ee7-dd953828685b}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FFE6E7E8" />
+        <Background Type="CT_RAW" Source="FF0F0F0F" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Selected Text">
