@@ -1,8 +1,8 @@
 {
   "name": "themeoldschool",
-  "displayName": "Old School Theme",
+  "displayName": "Theme.OldSchool",
   "description": "The Old School theme for focused developers.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "license": "MIT",
   "publisher": "puertaDigital",
   "icon": "logopd-square.png",
@@ -18,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Old School Theme",
+        "label": "Theme.OldSchool",
         "uiTheme": "vs-dark",
         "path": "./Theme.OldSchool.json"
       }

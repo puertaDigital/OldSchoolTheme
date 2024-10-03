@@ -1,5 +1,5 @@
 {
-	"name": "Old School Theme",
+	"name": "Theme.OldSchool",
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"semanticHighlighting": true,
